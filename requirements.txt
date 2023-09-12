@@ -1,0 +1,2 @@
+pytse_client
+streamlit
